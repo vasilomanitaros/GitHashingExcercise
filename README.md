@@ -1,4 +1,4 @@
-#GitHashingExcercise
+# GitHashingExcercise
 
 A simple bash script using the sha256sum linux command to hash a 4 integer number using SHA-256 algorithm.
 If no arguments are used, it takes the 4 last AEM digits of the creator as default.
